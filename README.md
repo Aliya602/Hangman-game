@@ -32,17 +32,12 @@ A classic Hangman word-guessing game built in Python with ASCII art, color outpu
 ## Gameplay Examples
 Enter your name: Aliya
 Is your name Aliya? (yes/no): yes
-
-==================================================
-📖 Hint: 🐍 Programming Language
-==================================================
 _ _ _ _ _ _
+📖 Hint: 🎸 A musical instrument
 
-📝 Guessed letters: None
-Guess a letter: p
-
+Guess a letter: t
 Good guess!
-p _ _ _ _ _
+_ _ _ t _ _
 
 
 ## How to run
