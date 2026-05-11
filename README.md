@@ -48,5 +48,6 @@ p _ _ _ _ _
 ## How to run
 ```bash
 python hangman.py
+Run on terminal
 
 
